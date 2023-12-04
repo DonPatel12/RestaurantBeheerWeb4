@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RestaurantBeheerWeb4REST.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GlRfwDscekzGrNiXAenABjcKapSCHe792dz7pIfvjyc=",
+  "Source": "RestaurantBeheerWeb4REST",
+  "BasePath": "_content/RestaurantBeheerWeb4REST",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
