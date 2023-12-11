@@ -1,6 +1,8 @@
-﻿namespace RestaurantBeheerWeb4REST.Controllers
+﻿using Microsoft.AspNetCore.Mvc;
+
+namespace RestaurantBeheerWeb4REST.Controllers
 {
-    public class GebruikerController
+    public class GebruikerController : ControllerBase
     {
     }
 }

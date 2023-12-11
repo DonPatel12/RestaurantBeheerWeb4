@@ -7,9 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
     <Folder Include="Mappers\" />
-    <Folder Include="Model\Input\" />
+    <Folder Include="Models\Input\" />
   </ItemGroup>
 
 </Project>

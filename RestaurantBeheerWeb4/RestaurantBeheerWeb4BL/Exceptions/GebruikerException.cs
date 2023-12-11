@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace RestaurantBeheerWeb4BL.Exceptions
 {
-    internal class GebruikerException
+    public class GebruikerException : Exception
     {
+        public GebruikerException(string message) : base(message)
+        {
+
+        }
+        public GebruikerException(string message, Exception innerException) : base(message, innerException)
+        {
+
+        }
     }
 }
