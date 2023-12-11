@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "1cEGJ6Xp/MM7yFrUxou6Y/BHmSAYJpTrtGcynF1qNZLXBqHhalq/AzZpknBtJaeUuiJaLSwmjjOaCCh0QClOUw==",
+  "dgSpecHash": "T84/5ioJS+pwjmoKGQ+Ce1WW06+ujPlo8VwKWK5HAcQxNvqu0olLrTkDm2zM0UXl6bFxjR7cSBVxlnwOD9npCg==",
   "success": true,
   "projectFilePath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\viral\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\viral\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\viral\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\viral\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\viral\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\viral\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

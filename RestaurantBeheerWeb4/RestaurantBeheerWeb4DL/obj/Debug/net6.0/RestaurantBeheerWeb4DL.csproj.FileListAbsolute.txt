@@ -1,10 +1,14 @@
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\bin\Debug\net6.0\RestaurantBeheerWeb4DL.deps.json
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\bin\Debug\net6.0\RestaurantBeheerWeb4DL.dll
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\bin\Debug\net6.0\RestaurantBeheerWeb4DL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\bin\Debug\net6.0\RestaurantBeheerWeb4BL.dll
+C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\bin\Debug\net6.0\RestaurantBeheerWeb4BL.pdb
+C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.csproj.AssemblyReference.cache
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.AssemblyInfoInputs.cache
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.AssemblyInfo.cs
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.csproj.CoreCompileInputs.cache
+C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.csproj.CopyComplete
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.dll
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\refint\RestaurantBeheerWeb4DL.dll
 C:\Users\viral\Documents\HOGENT\semester_3\Web4\RestaurantBeheerWeb4\RestaurantBeheerWeb4\RestaurantBeheerWeb4DL\obj\Debug\net6.0\RestaurantBeheerWeb4DL.pdb

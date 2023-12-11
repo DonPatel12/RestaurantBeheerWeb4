@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "RestaurantBeheerWeb4BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/RestaurantBeheerWeb4BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RestaurantBeheerWeb4BL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "RestaurantBeheerWeb4BL/1.0.0": {
+      "type": "project",
+      "path": "../RestaurantBeheerWeb4BL/RestaurantBeheerWeb4BL.csproj",
+      "msbuildProject": "../RestaurantBeheerWeb4BL/RestaurantBeheerWeb4BL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "RestaurantBeheerWeb4BL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\viral\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj": {
+              "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

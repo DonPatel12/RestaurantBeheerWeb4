@@ -4,14 +4,14 @@
     "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj": {
+    "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj",
-        "projectName": "RestaurantBeheerWeb4REST",
-        "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj",
+        "projectUniqueName": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj",
+        "projectName": "RestaurantBeheerWeb4BL",
+        "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj",
         "packagesPath": "C:\\Users\\viral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\obj\\",
+        "outputPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\viral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,133 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4DL\\RestaurantBeheerWeb4DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4DL\\RestaurantBeheerWeb4DL.csproj",
+        "projectName": "RestaurantBeheerWeb4DL",
+        "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4DL\\RestaurantBeheerWeb4DL.csproj",
+        "packagesPath": "C:\\Users\\viral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\viral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj": {
+                "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj",
+        "projectName": "RestaurantBeheerWeb4REST",
+        "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\RestaurantBeheerWeb4REST.csproj",
+        "packagesPath": "C:\\Users\\viral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4REST\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\viral\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj": {
+                "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4BL\\RestaurantBeheerWeb4BL.csproj"
+              },
+              "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4DL\\RestaurantBeheerWeb4DL.csproj": {
+                "projectPath": "C:\\Users\\viral\\Documents\\HOGENT\\semester_3\\Web4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4\\RestaurantBeheerWeb4DL\\RestaurantBeheerWeb4DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

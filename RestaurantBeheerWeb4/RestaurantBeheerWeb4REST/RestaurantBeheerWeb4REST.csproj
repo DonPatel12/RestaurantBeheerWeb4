@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
@@ -9,6 +9,15 @@
   <ItemGroup>
     <Folder Include="Mappers\" />
     <Folder Include="Models\Input\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestaurantBeheerWeb4BL\RestaurantBeheerWeb4BL.csproj" />
+    <ProjectReference Include="..\RestaurantBeheerWeb4DL\RestaurantBeheerWeb4DL.csproj" />
   </ItemGroup>
 
 </Project>
